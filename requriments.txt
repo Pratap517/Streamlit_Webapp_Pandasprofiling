@@ -6,6 +6,6 @@ seaborn
 pandas-profiling
 sweetviz
 streamlit.components.v1
-import warnings
+warnings
 pyplot
 streamlit-pandas-profiling
