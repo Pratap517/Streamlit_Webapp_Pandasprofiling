@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+pandas_profiling
+sweetviz
+streamlit_pandas_profiling
+streamlit.components.v1
+import warnings
+pyplot
