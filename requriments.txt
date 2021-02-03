@@ -9,3 +9,10 @@ streamlit.components.v1
 warnings
 pyplot
 streamlit-pandas-profiling
+scipy
+missingno
+confuse
+jinja2
+attrs
+tqdm
+requests
