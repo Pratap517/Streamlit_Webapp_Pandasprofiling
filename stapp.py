@@ -8,7 +8,6 @@ Created on Sun Jan 31 00:05:46 2021
 
 import streamlit as st
 import pandas as pd
-from pandas_profiling import ProfileReport
 import sweetviz as sv
 import streamlit.components.v1 as stc
 from streamlit_pandas_profiling import st_profile_report
