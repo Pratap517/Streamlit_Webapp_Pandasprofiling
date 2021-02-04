@@ -8,9 +8,9 @@ Created on Sun Jan 31 00:05:46 2021
 
 import streamlit as st
 import pandas as pd
-
+import sweetviz as sv
 import streamlit.components.v1 as stc
-from streamlit_pandas_profiling import st_profile_report
+import streamlit_pandas_profiling as st_profile_report
 import seaborn as sns
 import warnings
 import matplotlib
