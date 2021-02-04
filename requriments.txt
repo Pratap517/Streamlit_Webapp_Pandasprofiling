@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-pandas_profiling
+pandas-profiling
 sweetviz
 streamlit.components.v1
 warnings
